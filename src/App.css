@@ -1,0 +1,10 @@
+
+@keyframes a{
+  50% {
+    bottom: 55vh;
+  }
+  100%{
+    bottom: 30vh;
+  }
+}
+
